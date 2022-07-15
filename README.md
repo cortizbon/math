@@ -55,6 +55,7 @@
 1. https://www.youtube.com/playlist?list=PL05umP7R6ij35ShKLDqccJSDntugY4FQT
 2. https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS
 3. https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU
+4. https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd
 
 ## Deep learning
 
